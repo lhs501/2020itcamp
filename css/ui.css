@@ -68,10 +68,10 @@ footer > a.instar:hover{background:url(../images/social_b_instar_hover.png) no-r
 #container .content:before,#container .content:after{content:""; display:block; position:absolute;} 
 #container .content:before{width:1px; height:100%; background:#000; left:0; top:0; z-index:4;}
 #container .content:after{left:30px; top:180px; font-size:25px; font-weight:700; color:#ed3140;}
-#container #menu1:after{content:"학교소개";} 
+#container #menu1:after{content:"공통소개";} 
 #container #menu2:after{content:"자기소개";} 
 #container #menu3:after{content:"느낀점";} 
-#container #menu4:after{content:"날릴꺼";}
+#container #menu4:after{content:"Mirim";}
 #container .content .conbox:before{content:"";display:block; position:absolute;} 
 #container #menu1 .conbox:before{background:url(../images/main_ico1.png) no-repeat; width:180px; height:180px; right:-10px; top:130px; background-size:100%;} 
 #container #menu2 .conbox:before{background:url(../images/main_ico2.png) no-repeat; width:180px; height:470px; right:-30px; top:180px; background-size:100%;} 
@@ -143,7 +143,7 @@ preserve-3d; transform:matrix3d(1,0,0,0,0,0.1,0,0,0,0,1,0,0,0,0,1); transition:a
 .accordio_box ol li:nth-of-type(3) p{background-image:url(../images/shopping_boy.png); background-position:40px 13px;}
 .accordio_box ol li:nth-of-type(4) p{background-image:url(../images/meeting_boy.png); background-position:40px 13px;}
 /*contact us */
-#menu4 .content_wrap{width:800px; margin:100px auto 0 auto; padding:30px; background:rgba(255,255,255, 0.7); border-radius:5px;}
+#menu4 .content_wrap{width:1000px; margin:100px auto 0 auto; padding:30px; background:rgba(255,255,255, 0.7); border-radius:5px;}
 #menu4 .content_wrap .form_tit{margin-bottom:40px; font-size:24px; font-weight:700; color:#ea657b;}
 .formlist{padding-bottom:150px; background:url(../images/contact_bg.png) no-repeat right bottom; background-size:200px;}
 .formlist ul li{margin-bottom:15px; position:relative; padding:0 0 0 150px;}
