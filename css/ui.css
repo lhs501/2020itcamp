@@ -160,6 +160,7 @@ preserve-3d; transform:matrix3d(1,0,0,0,0,0.1,0,0,0,0,1,0,0,0,0,1); transition:a
 .thankyou_message > section{width:550px; margin:10% auto; padding:20px; border-radius:5px; background:url(../images/contact_pop.jpg) no-repeat #fff right bottom; background-size:240px; color:#3c4147;}
 /*공통으로 사용되는 스타일 */
 #about{color :whitesmoke}
+#about2{color :whitesmoke}
 /*블릿*/
 .bullet_list{margin-top:20px;}
 .bullet_list li{margin-bottom:5px; padding-left:10px; font-size:12px; color:#3c4147; position:relative;}
